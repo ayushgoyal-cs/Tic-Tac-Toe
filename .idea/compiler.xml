@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Boys_in_a_sport_class_main" target="11" />
+      <module name="Problems-Boys_in_a_sport_class_test" target="11" />
+      <module name="Problems-Bus_tour_main" target="11" />
+      <module name="Problems-Bus_tour_test" target="11" />
+      <module name="Problems-Check_a_number_is_positive_main" target="11" />
+      <module name="Problems-Check_a_number_is_positive_test" target="11" />
+      <module name="Problems-Cinema_main" target="11" />
+      <module name="Problems-Cinema_test" target="11" />
+      <module name="Problems-Even_or_odd_main" target="11" />
+      <module name="Problems-Even_or_odd_test" target="11" />
+      <module name="Problems-Groundhogs_at_a_party_main" target="11" />
+      <module name="Problems-Groundhogs_at_a_party_test" target="11" />
+      <module name="Problems-Guest_list_of_a_hotel_main" target="11" />
+      <module name="Problems-Guest_list_of_a_hotel_test" target="11" />
+      <module name="Problems-Hiring_a_chef_main" target="11" />
+      <module name="Problems-Hiring_a_chef_test" target="11" />
+      <module name="Problems-Individual_taxes_main" target="11" />
+      <module name="Problems-Individual_taxes_test" target="11" />
+      <module name="Problems-Initializing_an_array_of_characters_main" target="11" />
+      <module name="Problems-Initializing_an_array_of_characters_test" target="11" />
+      <module name="Problems-Initializing_an_array_of_integers_main" target="11" />
+      <module name="Problems-Initializing_an_array_of_integers_test" target="11" />
+      <module name="Problems-Initializing_an_array_of_longs_main" target="11" />
+      <module name="Problems-Initializing_an_array_of_longs_test" target="11" />
+      <module name="Problems-Pretty_looking_pattern_main" target="11" />
+      <module name="Problems-Pretty_looking_pattern_test" target="11" />
+      <module name="Problems-Print_strings_in_the_reverse_order_main" target="11" />
+      <module name="Problems-Print_strings_in_the_reverse_order_test" target="11" />
+      <module name="Problems-Rotate_a_rectange_array_main" target="11" />
+      <module name="Problems-Rotate_a_rectange_array_test" target="11" />
+      <module name="Problems-Sum_of_neighbors_main" target="11" />
+      <module name="Problems-Sum_of_neighbors_test" target="11" />
+      <module name="Problems-Swap_the_columns_main" target="11" />
+      <module name="Problems-Swap_the_columns_test" target="11" />
+      <module name="Problems-The__un_-ordered_sequence_main" target="11" />
+      <module name="Problems-The__un_-ordered_sequence_test" target="11" />
+      <module name="Problems-The_countdown_main" target="11" />
+      <module name="Problems-The_countdown_test" target="11" />
+      <module name="Problems-The_maximum_pairwise_product_main" target="11" />
+      <module name="Problems-The_maximum_pairwise_product_test" target="11" />
+      <module name="Problems-The_minimum_value_of_an_array_main" target="11" />
+      <module name="Problems-The_minimum_value_of_an_array_test" target="11" />
+      <module name="Problems-The_sequence_main" target="11" />
+      <module name="Problems-The_sequence_test" target="11" />
+      <module name="Problems-Three_numbers_main" target="11" />
+      <module name="Problems-Three_numbers_test" target="11" />
+      <module name="Tic-Tac-Toe-task_main" target="11" />
+      <module name="Tic-Tac-Toe-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
